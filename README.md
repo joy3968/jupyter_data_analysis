@@ -1,5 +1,8 @@
 # jupyter_data_analysis
 주피터를 통한 데이터 분석 자료입니다.
+
+***
+
 ***
 ### 1.traffic_accident
 시도별 교통사고 통계를 이용하여 분석한 자료입니다.
