@@ -21,6 +21,7 @@
 ![parking_lot](https://user-images.githubusercontent.com/69666784/93578990-ea74d980-f9d8-11ea-9a5e-4bb4ee93e98a.PNG)
 추세선을 통해 분석 해 보았을 때, 강남구는 차량등록 대수에 비해 주차공간이 넓다는 것을 알 수 있다.
 
+***
 #### 사용 라이브러리
 + numpy : 데이터 이용(통계)
 + pandas : 데이터 이용
