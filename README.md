@@ -34,3 +34,5 @@
 + 시도별 사고량 통계자료 : 공공 데이터 포털  https://www.data.go.kr/
 + 서울시 구별 CCTV 자료 : 서울 열린 데이터 광장  https://data.seoul.go.kr/
 + 서울시 범죄 현황 자료 : 서울 열린 데이터 광장  https://data.seoul.go.kr/
++ 서울시 차랑 등록 자료  : 서울 열린 데이터 광장  https://data.seoul.go.kr/
++ 서울시 주차장 통격 자료 : 서울 열린 데이터 광장  https://data.seoul.go.kr/
