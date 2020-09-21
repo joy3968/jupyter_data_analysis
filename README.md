@@ -36,7 +36,7 @@
 
 ![real_estate_analysis_3](https://user-images.githubusercontent.com/69666784/93731687-1bd3ec00-fc09-11ea-93a4-cddd94ecd842.PNG)
 
-서울시 중에서 땅값이 많이 오른 구를 지도상에 진하게 표시해보았다.
+서울시 중에서 땅값이 많이 오른 구를 진하게 표시해보았다.
 ***
 #### 사용 라이브러리
 + numpy : 데이터 이용(통계)
