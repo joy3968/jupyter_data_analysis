@@ -39,7 +39,7 @@
 + matplotlib : 시각화
 + seaborn : 시각화
 + folium : 지도를 통한 시각화
-* xlwings : 엑셀 데이터를 불러오기
++ xlwings : 엑셀 데이터를 불러오기
 ***
 
 #### 데이터 이용
