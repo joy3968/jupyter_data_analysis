@@ -48,4 +48,4 @@
 + 서울시 범죄 현황 자료 : 서울 열린 데이터 광장  https://data.seoul.go.kr/
 + 서울시 차랑 등록 자료  : 서울 열린 데이터 광장  https://data.seoul.go.kr/
 + 서울시 주차장 통계 자료 : 서울 열린 데이터 광장  https://data.seoul.go.kr/
-* 부동산 통계자료 : KB국민은행 리브온 https://onland.kbstar.com/quics?page=okbland
++ 부동산 통계자료 : KB국민은행 리브온 https://onland.kbstar.com/quics?page=okbland
