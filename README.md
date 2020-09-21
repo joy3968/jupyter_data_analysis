@@ -28,6 +28,8 @@
 ##### 결론
 ![real_estate_analysis_1](https://user-images.githubusercontent.com/69666784/93729620-4bcac180-fc00-11ea-8140-021eb4e82334.PNG)
 
+각 지역별 부동산 가격 상승률 추이를 알 수 있다.
+
 ![real_estate_analysis_2](https://user-images.githubusercontent.com/69666784/93729622-4cfbee80-fc00-11ea-98e7-72fe68a89885.PNG)
 
 2016년부터 2020년 사이 부동산 시세 증감률을 보았을 때 분당구, 영등포구, 강남순으로 많이 올랐다는 것을 알 수 있다.
