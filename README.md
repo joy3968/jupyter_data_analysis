@@ -43,11 +43,11 @@
 
 ![real_estate_income_1](https://user-images.githubusercontent.com/69666784/93740073-bbeb3e80-fc24-11ea-9dc3-053860b179e1.PNG)
 
-#####결론
+##### 결론
 ![real_estate_income_3](https://user-images.githubusercontent.com/69666784/93740085-c0aff280-fc24-11ea-87f2-6f9d994348a6.PNG)
 
 3분위 주택가격의 주택을 사기위해 연봉으로 몇년을 벌어야 살 수 있는지 나타내는 그래프라고 생각하면 된다. 2014년까지 시간이 단축되다가 14년 이후로 급격하게 증가하고 있다. 즉 연봉대비 집을 사기 힘들어지고 있다.
-
+***
 
 #### 사용 라이브러리
 + numpy : 데이터 이용(통계)
